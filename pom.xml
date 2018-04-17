@@ -49,11 +49,11 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>nexus</id>
+			<id>public</id>
 			<url>http://54.146.17.6:8081/nexus/content/groups/public/</url>
 		</repository>
 		<snapshotRepository>
-			<id>nexus</id>
+			<id>snapshots</id>
 			<url>http://54.146.17.6:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
   	</distributionManagement>
