@@ -49,8 +49,8 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>public</id>
-			<url>http://54.146.17.6:8081/nexus/content/groups/public/</url>
+			<id>releases</id>
+			<url>http://54.146.17.6:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
